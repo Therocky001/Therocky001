@@ -19,6 +19,15 @@ My belief: *with AI, there's nothing in tech I can't figure out and build.*
 > 💡 *"In this time of AI, I can do anything in tech."*
 
 ---
+### 📫 Connect
+
+[![Email](https://img.shields.io/badge/Email-cnttoujjval@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cnttoujjval@gmail.com)
+[![Website](https://img.shields.io/badge/Website-ujjvalrajauriya.me-000000?style=flat-square&logo=globe&logoColor=white)](https://ujjvalrajauriya.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjval_Rajauriya-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjval-rajauriya-77ab94321/)
+[![Instagram](https://img.shields.io/badge/Instagram-@ujjval__rajauriya-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ujjval_rajauriya/)
+[![Facebook](https://img.shields.io/badge/Facebook-Ujjval_Rajauriya-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ujjval.rajauriya.3)
+
+---
 
 ### 🚀 Currently Building
 
